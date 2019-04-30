@@ -16,7 +16,7 @@ public class GitBranchDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("this is local01 news");
+		System.out.println("this is master commit");
 	}
 
 	public static void main(String[] args) {
