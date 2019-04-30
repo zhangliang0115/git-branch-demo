@@ -15,7 +15,7 @@ public class GitBranchDemoApplicationTests {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("test demo");
+		System.out.println("this is master demo");
 	}
 
 }
