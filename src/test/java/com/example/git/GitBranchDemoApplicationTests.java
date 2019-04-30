@@ -11,7 +11,7 @@ public class GitBranchDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-
+		System.out.println("this is local01");
 	}
 
 	public static void main(String[] args) {
