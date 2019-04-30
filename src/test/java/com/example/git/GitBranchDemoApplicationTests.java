@@ -20,7 +20,7 @@ public class GitBranchDemoApplicationTests {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("this is master demo 01 00");
+		System.out.println("this is master demo 01 02");
 	}
 
 	public void masteradd(){
