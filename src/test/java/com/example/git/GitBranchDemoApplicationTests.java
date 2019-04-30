@@ -23,4 +23,8 @@ public class GitBranchDemoApplicationTests {
 		System.out.println("this is master demo 01 03");
 	}
 
+	public void masteradd(){
+
+	}
+
 }
