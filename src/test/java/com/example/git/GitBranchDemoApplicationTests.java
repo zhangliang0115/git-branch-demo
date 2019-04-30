@@ -27,4 +27,6 @@ public class GitBranchDemoApplicationTests {
 
 	}
 
+	public void local01(){}
+
 }
