@@ -16,11 +16,11 @@ public class GitBranchDemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		System.out.println("this is local01");
+		System.out.println("this is local01 ");
 	}
 
 	public static void main(String[] args) {
-		System.out.println("this is master demo 01 07");
+		System.out.println("this is master demo 01 07 product");
 	}
 
 	public void masteradd(){
